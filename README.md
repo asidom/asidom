@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asidom
-- 👀 I’m interested in art, music, video games, cannabis and random things about any topic
+- 👀 I’m interested in art, music, video games and random things about any topic
 - 🌱 I’m currently learning Java, C#, JavaScript and studying Software Development at IIE Rosebank College
 - 💞️ I’m looking to collaborate on any small-scaled projects built on Java and C#. 
 - 📫 How to reach me ...
